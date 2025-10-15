@@ -1,6 +1,6 @@
 # Diffusion Language Models (dLLM) 论文合集
 
-[![Papers](https://img.shields.io/badge/Papers-238-blue.svg)](papers/)
+[![Papers](https://img.shields.io/badge/Papers-282-blue.svg)](papers/)
 [![Categories](https://img.shields.io/badge/Categories-9-green.svg)](#-分类概览)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -12,21 +12,21 @@
 
 ### 📚 项目简介
 
-本仓库收集整理了 **Diffusion Large Language Models (dLLM)** 相关的学术论文，涵盖基础模型、多模态、推理优化、训练策略等多个方向。目前已收录 **238 篇论文**，并按主题分类整理。
+本仓库收集整理了 **Diffusion Large Language Models (dLLM)** 相关的学术论文，涵盖基础模型、多模态、推理优化、训练策略等多个方向。目前已收录 **282 篇论文**，并按主题分类整理。
 
 ### 🗂️ 分类概览
 
 | 分类 | 论文数量 | 目录 |
 |------|---------|------|
-| 必读论文 | 4 | [01-Must-Read](papers/01-Must-Read/) |
+| 必读论文 | 6 | [01-Must-Read](papers/01-Must-Read/) |
 | 综述论文 | 5 | [02-Surveys](papers/02-Surveys/) |
-| 扩散基础 | 6 | [03-Diffusion-Foundation](papers/03-Diffusion-Foundation/) |
-| 离散扩散模型 | 70 | [04-Discrete-DLMs](papers/04-Discrete-DLMs/) |
+| 扩散基础 | 7 | [03-Diffusion-Foundation](papers/03-Diffusion-Foundation/) |
+| 离散扩散模型 | 71 | [04-Discrete-DLMs](papers/04-Discrete-DLMs/) |
 | 连续扩散模型 | 32 | [05-Continuous-DLMs](papers/05-Continuous-DLMs/) |
-| 多模态模型 | 8 | [06-Multimodal-DLMs](papers/06-Multimodal-DLMs/) |
-| 训练策略 | 17 | [07-Training-Strategies](papers/07-Training-Strategies/) |
-| 推理优化 | 42 | [08-Inference-Optimization](papers/08-Inference-Optimization/) |
-| 应用领域 | 54 | [09-Applications](papers/09-Applications/) |
+| 多模态模型 | 13 | [06-Multimodal-DLMs](papers/06-Multimodal-DLMs/) |
+| 训练策略 | 23 | [07-Training-Strategies](papers/07-Training-Strategies/) |
+| 推理优化 | 56 | [08-Inference-Optimization](papers/08-Inference-Optimization/) |
+| 应用领域 | 60 | [09-Applications](papers/09-Applications/) |
 
 ### 📋 主要研究方向
 
@@ -99,7 +99,7 @@ cat papers/INDEX.md
 
 ### 📊 统计信息
 
-- 总论文数：**238 篇**
+- 总论文数：**282 篇**
 - 最新更新：2025年10月
 - 覆盖时间：2021-2025
 - 主要来源：arXiv, NeurIPS, ICML, ACL 等
@@ -123,21 +123,21 @@ cat papers/INDEX.md
 
 ### 📚 About
 
-This repository is a curated collection of academic papers on **Diffusion Large Language Models (dLLM)**, covering foundation models, multimodal systems, inference optimization, training strategies, and more. Currently featuring **238 papers** organized by topic.
+This repository is a curated collection of academic papers on **Diffusion Large Language Models (dLLM)**, covering foundation models, multimodal systems, inference optimization, training strategies, and more. Currently featuring **282 papers** organized by topic.
 
 ### 🗂️ Categories Overview
 
 | Category | Count | Directory |
 |----------|-------|-----------|
-| Must-Read | 4 | [01-Must-Read](papers/01-Must-Read/) |
+| Must-Read | 6 | [01-Must-Read](papers/01-Must-Read/) |
 | Surveys | 5 | [02-Surveys](papers/02-Surveys/) |
-| Diffusion Foundation | 6 | [03-Diffusion-Foundation](papers/03-Diffusion-Foundation/) |
-| Discrete DLMs | 70 | [04-Discrete-DLMs](papers/04-Discrete-DLMs/) |
+| Diffusion Foundation | 7 | [03-Diffusion-Foundation](papers/03-Diffusion-Foundation/) |
+| Discrete DLMs | 71 | [04-Discrete-DLMs](papers/04-Discrete-DLMs/) |
 | Continuous DLMs | 32 | [05-Continuous-DLMs](papers/05-Continuous-DLMs/) |
-| Multimodal DLMs | 8 | [06-Multimodal-DLMs](papers/06-Multimodal-DLMs/) |
-| Training Strategies | 17 | [07-Training-Strategies](papers/07-Training-Strategies/) |
-| Inference Optimization | 42 | [08-Inference-Optimization](papers/08-Inference-Optimization/) |
-| Applications | 54 | [09-Applications](papers/09-Applications/) |
+| Multimodal DLMs | 13 | [06-Multimodal-DLMs](papers/06-Multimodal-DLMs/) |
+| Training Strategies | 23 | [07-Training-Strategies](papers/07-Training-Strategies/) |
+| Inference Optimization | 56 | [08-Inference-Optimization](papers/08-Inference-Optimization/) |
+| Applications | 60 | [09-Applications](papers/09-Applications/) |
 
 ### 🔬 Key Research Areas
 
@@ -172,7 +172,7 @@ cat papers/INDEX.md
 
 ### 📊 Statistics
 
-- Total Papers: **238**
+- Total Papers: **282**
 - Last Update: October 2025
 - Time Span: 2021-2025
 - Sources: arXiv, NeurIPS, ICML, ACL, etc.

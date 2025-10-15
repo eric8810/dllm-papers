@@ -2,21 +2,21 @@
 
 Downloaded papers organized by category.
 
-**Total: 238 papers**
+**Total: 282 papers**
 
 ---
 
 ## Table of Contents
 
-- [Must-Read](#must-read) (4 papers)
+- [Must-Read](#must-read) (6 papers)
 - [Surveys](#surveys) (5 papers)
-- [Diffusion Foundation](#diffusion-foundation) (6 papers)
-- [Discrete DLMs](#discrete-dlms) (70 papers)
+- [Diffusion Foundation](#diffusion-foundation) (7 papers)
+- [Discrete DLMs](#discrete-dlms) (71 papers)
 - [Continuous DLMs](#continuous-dlms) (32 papers)
-- [Multimodal DLMs](#multimodal-dlms) (8 papers)
-- [Training Strategies](#training-strategies) (17 papers)
-- [Inference Optimization](#inference-optimization) (42 papers)
-- [Applications](#applications) (54 papers)
+- [Multimodal DLMs](#multimodal-dlms) (13 papers)
+- [Training Strategies](#training-strategies) (23 papers)
+- [Inference Optimization](#inference-optimization) (56 papers)
+- [Applications](#applications) (60 papers)
 
 ---
 
@@ -24,7 +24,7 @@ Downloaded papers organized by category.
 
 **Location:** `01-Must-Read/`
 
-**Count:** 4 papers
+**Count:** 6 papers
 
 - **Structured Denoising Diffusion Models in Discrete State-Spaces**
   - arXiv: [2107.03006](https://arxiv.org/abs/2107.03006)
@@ -57,6 +57,14 @@ Downloaded papers organized by category.
 - **(**
   - arXiv: [2505.22618](https://arxiv.org/abs/2505.22618)
   - PDF: `01-Must-Read/2505.22618.pdf`
+
+- **LLaDA: Large Language Diffusion Models**
+  - arXiv: [2502.09992](https://arxiv.org/abs/2502.09992)
+  - PDF: `01-Must-Read/LLaDA_Large_Language_Diffusion_Models.pdf`
+
+- **Dream 7B: Diffusion Large Language Models**
+  - arXiv: TBD
+  - PDF: `01-Must-Read/Dream_7B_Diffusion_Large_Language_Models.pdf`
 
 ## Surveys
 
@@ -108,7 +116,7 @@ Downloaded papers organized by category.
 
 **Location:** `03-Diffusion-Foundation/`
 
-**Count:** 6 papers
+**Count:** 7 papers
 
 - **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**
   - arXiv: [1503.03585](https://arxiv.org/abs/1503.03585)
@@ -162,7 +170,7 @@ Downloaded papers organized by category.
 
 **Location:** `04-Discrete-DLMs/`
 
-**Count:** 70 papers
+**Count:** 71 papers
 
 - **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions**
   - arXiv: [2102.05379](https://arxiv.org/abs/2102.05379)
@@ -990,7 +998,7 @@ Downloaded papers organized by category.
 
 **Location:** `06-Multimodal-DLMs/`
 
-**Count:** 8 papers
+**Count:** 13 papers
 
 - **Unified Multimodal Discrete Diffusion**
   - arXiv: [2503.20853](https://arxiv.org/abs/2503.20853)
@@ -1060,7 +1068,7 @@ Downloaded papers organized by category.
 
 **Location:** `07-Training-Strategies/`
 
-**Count:** 17 papers
+**Count:** 23 papers
 
 - **Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**
   - arXiv: [2305.04465](https://arxiv.org/abs/2305.04465)
@@ -1202,7 +1210,7 @@ Downloaded papers organized by category.
 
 **Location:** `08-Inference-Optimization/`
 
-**Count:** 42 papers
+**Count:** 56 papers
 
 - **Diffusion Language Models Generation Can Be Halted Early**
   - arXiv: [2305.10818](https://arxiv.org/abs/2305.10818)
@@ -1540,7 +1548,7 @@ Downloaded papers organized by category.
 
 **Location:** `09-Applications/`
 
-**Count:** 54 papers
+**Count:** 60 papers
 
 - **DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**
   - arXiv: [2305.01735](https://arxiv.org/abs/2305.01735)
