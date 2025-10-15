@@ -58,11 +58,24 @@
 	
 八、应用到其它领域
 （1）LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding
-	
+
 （2）DIFFA: Large Language Diffusion Models Can Listen and Understand
-	
+
 （3）The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs
-	
+
 （4）Whisfusion: Parallel ASR Decoding via a Diffusion Transformer
-	
+
 （5）LLaDA-VLA: Vision Language Diffusion Action Models
+
+九、推理框架与系统优化
+（1）vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention
+
+（2）FlexGen: High Throughput Generative Inference of Large Language Models
+
+（3）SpecInfer: Accelerating Generative LLM Serving with Speculative Inference
+
+（4）Speculative Decoding for Large Language Models
+
+（5）Medusa: Simple LLM Acceleration Framework with Multiple Decoding Heads
+
+（6）Lookahead Decoding: A New Way to Accelerate Large Language Models
