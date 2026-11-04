@@ -1384,13 +1384,13 @@ Downloaded papers organized by category.
   - arXiv: [2508.09192](https://arxiv.org/abs/2508.09192)
   - PDF: `08-Inference-Optimization/2508.09192.pdf`
 
-- ****
+- **Empirical Analysis of Decoding Biases in Masked Diffusion Models** (UNCODE, ACL 2026)
   - arXiv: [2508.13021](https://arxiv.org/abs/2508.13021)
   - PDF: `08-Inference-Optimization/2508.13021.pdf`
 
-- **(**
+- **PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models** (earlier arXiv version of the paper above)
   - arXiv: [2508.13021](https://arxiv.org/abs/2508.13021)
-  - PDF: `08-Inference-Optimization/2508.13021.pdf`
+  - PDF: `08-Inference-Optimization/PC-Sampler_Position-Aware_Calibration_of_Decoding_Bias_in_Masked_Diffusion_Models.pdf`
 
 - ****
   - arXiv: [2508.14090](https://arxiv.org/abs/2508.14090)
